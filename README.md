@@ -52,8 +52,8 @@ task-manager/
 ### 1. Clone the Repository
 
 ```
-git clone <your-repo-url>
-cd task-manager
+git clone https://github.com/SagarDas211/task-manager-sagar.git
+cd task-manager-sagar
 ```
 
 ---
